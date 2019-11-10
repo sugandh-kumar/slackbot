@@ -1,0 +1,6 @@
+name: slackbot
+channels:
+  - conda-forge
+dependencies:
+  - slackclient
+  - certifi
